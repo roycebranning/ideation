@@ -45,18 +45,21 @@ GET
 
 Client:
 
-  `{
+  ```json
+  {
     action: "GET",
     data: {
         event: {
             id: "alksdj1"
         }
     }
-  }`
+  }
+  ```
 
 Server:
 
-  `{
+  ```json
+  {
     action: "POST",
     data: {
         event: {
@@ -67,14 +70,16 @@ Server:
             user_id: "asdfk1kl1"
         }
     }
-  }`
+  }
+  ```
 
 Post
 ----
 
 Client:
 
-  `{
+  ```json
+  {
     action: "POST",
     data: {
         event: {
@@ -84,11 +89,13 @@ Client:
             user_id: "asdfk1kl1"
        }
     }
-   }`
+   }
+   ```
 
 Server:
 
-  `{
+  ```json
+  {
     action: "POST",
     data: {
         event: {
@@ -99,7 +106,8 @@ Server:
             user_id: "asdfk1kl1"
        }
     }
-   }`
+   }
+   ```
 
 Notice that the server populates the id.
 
@@ -108,31 +116,36 @@ Delete
 
 Client:
 
-  `{
+  ```json
+  {
     action: "DELETE",
     data: {
         event: {
             id: "kaljslfjk1"
        }
     }
-   }`
+   }
+   ```
 
 Server:
 
 Success:
 
-  `{
+  ```json
+  {
     action: "DELETE",
     data: {
         event: {
             id: "kaljslfjk1"
        }
     }
-   }`
+   }
+   ```
 
 Failure:
 
-  `{
+  ```json
+  {
     action: "POST",
     data: {
         event: {
@@ -143,7 +156,8 @@ Failure:
             user_id: "asdfk1kl1"
        }
     }
-   }`
+   }
+   ```
 
 
 

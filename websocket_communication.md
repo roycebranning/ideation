@@ -12,12 +12,12 @@ This general and assumed consistency can lead to a guarantee that data is accura
 Problem
 -------
 
-How do you retrieve data that you have identifiers for, but no data for. How do you coordinate a server's response to a specific client request? Does this degrade the elos models of agent communication, wherein all agents connected with the same ids recieve the updates of a single request?
+How do you retrieve data that you have identifiers for, but no data for. How do you coordinate a server's response to a specific client request? Does this degrade the elos models of agent communication, wherein all agents connected with the same ids receive the updates of a single request?
 
 Solution
 --------
 
-Acting as though the identifiers the client has been supplied thus far are guarentees for expected data returns, act aggresively on those promises.
+Acting as though the identifiers the client has been supplied thus far are guarantees for expected data returns, act aggressively on those promises.
 
 When the need for data arrives, query the server, but move forward synchronously as though you have the data. Instantiate a record with the said id(s) in the store.
 

@@ -29,8 +29,18 @@ In practice this should prove very quick, as the UI renders along with the serve
 Protocol
 ========
 
-The general form is
-    `{action: "<action>", data:{"<kind>":{"some":"data"}}}`
+The general form is:
+
+```json
+{
+  "action: "<action>", 
+  "data": {
+    "<kind>":{
+      "some":"data"
+    }
+  }
+}
+```
 
 There are three actions: GET, POST and DELETE. The server never uses GET.
 
@@ -45,69 +55,69 @@ GET
 
 Client:
 
-  ```json
-  {
-    action: "GET",
-    data: {
-        event: {
-            id: "alksdj1"
-        }
+```json
+{
+  "action": "GET",
+  "data": {
+    "event": {
+      "id": "alksdj1"
     }
   }
+}
   ```
 
 Server:
 
-  ```json
-  {
-    action: "POST",
-    data: {
-        event: {
-            id: "alksdfj1"
-            name: "This is the event",
-            start_time: "2014-7-13-101200",
-            end_time: "2014-7-13-101200",
-            user_id: "asdfk1kl1"
-        }
+```json
+{
+  "action": "POST",
+  "data": {
+    "event": {
+      "id": "alksdfj1"
+      "name": "This is the event",
+      "start_time": "2014-7-13-101200",
+      "end_time": "2014-7-13-101200",
+      "user_id": "asdfk1kl1"
     }
   }
-  ```
+}
+```
 
 Post
 ----
 
 Client:
 
-  ```json
-  {
-    action: "POST",
-    data: {
-        event: {
-            name: "This is my new event",
-            start_time: "2014-7-13-101200",
-            end_time: "2014-7-13-101200",
-            user_id: "asdfk1kl1"
-       }
+```json
+{
+  "action": "POST",
+  "data": {
+    "event": {
+      "name": "This is my new event",
+      "start_time": "2014-7-13-101200",
+      "end_time": "2014-7-13-101200",
+      "user_id": "asdfk1kl1"
     }
-   }
-   ```
+  }
+}
+```
 
 Server:
 
-  ```json
+```json
   {
-    action: "POST",
-    data: {
-        event: {
-            id: "lkajdsf12",
-            name: "This is my new event",
-            start_time: "2014-7-13-101200",
-            end_time: "2014-7-13-101200",
-            user_id: "asdfk1kl1"
-       }
+    "action": "POST",
+    "data": {
+      "event": {
+        "id": "lkajdsf12",
+        "name": "This is my new event",
+        "start_time": "2014-7-13-101200",
+        "end_time": "2014-7-13-101200",
+        "user_id": "asdfk1kl1"
     }
-   }
-   ```
+  }
+}
+```
 
 Notice that the server populates the id.
 
@@ -116,48 +126,48 @@ Delete
 
 Client:
 
-  ```json
+```json
   {
-    action: "DELETE",
-    data: {
-        event: {
-            id: "kaljslfjk1"
-       }
+    "action": "DELETE",
+    "data": {
+      "event": {
+        "id": "kaljslfjk1"
     }
-   }
-   ```
+  }
+}
+```
 
 Server:
 
 Success:
 
-  ```json
-  {
-    action: "DELETE",
-    data: {
-        event: {
-            id: "kaljslfjk1"
-       }
+```json
+{
+  "action": "DELETE",
+  "data": {
+    "event": {
+      "id": "kaljslfjk1"
     }
-   }
-   ```
+  }
+}
+```
 
 Failure:
 
-  ```json
-  {
-    action: "POST",
-    data: {
-        event: {
-            id: "kaljslfjk1"
-            name: "This is my new event",
-            start_time: "2014-7-13-101200",
-            end_time: "2014-7-13-101200",
-            user_id: "asdfk1kl1"
-       }
+```json
+{
+  "action": "POST",
+  "data": {
+    "event": {
+      "id": "kaljslfjk1"
+      "name": "This is my new event",
+      "start_time": "2014-7-13-101200",
+      "end_time": "2014-7-13-101200",
+      "user_id": "asdfk1kl1"
     }
-   }
-   ```
+  }
+}
+```
 
 
 

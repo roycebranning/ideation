@@ -33,7 +33,7 @@ The general form is:
 
 ```json
 {
-  "action: "<action>", 
+  "action": "<action>", 
   "data": {
     "<kind>":{
       "some":"data"
@@ -73,7 +73,7 @@ Server:
   "action": "POST",
   "data": {
     "event": {
-      "id": "alksdfj1"
+      "id": "alksdfj1",
       "name": "This is the event",
       "start_time": "2014-7-13-101200",
       "end_time": "2014-7-13-101200",
@@ -159,7 +159,7 @@ Failure:
   "action": "POST",
   "data": {
     "event": {
-      "id": "kaljslfjk1"
+      "id": "kaljslfjk1",
       "name": "This is my new event",
       "start_time": "2014-7-13-101200",
       "end_time": "2014-7-13-101200",

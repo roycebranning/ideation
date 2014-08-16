@@ -93,6 +93,7 @@ Client:
   "action": "POST",
   "data": {
     "event": {
+      "id": "lkajdsf12",
       "name": "This is my new event",
       "start_time": "2014-7-13-101200",
       "end_time": "2014-7-13-101200",
@@ -119,7 +120,7 @@ Server:
 }
 ```
 
-Notice that the server populates the id.
+Notice that the client populates the id, the server's response is confirmation.
 
 Delete
 ------

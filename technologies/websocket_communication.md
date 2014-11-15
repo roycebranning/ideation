@@ -12,7 +12,7 @@ This general and assumed consistency can lead to a guarantee that data is accura
 Problem
 -------
 
-How do you retrieve data for which you only have identifies, no data? How do you coordinate a server's response to a specific client request? Does this degrade the elos models of agent communication, wherein all agents connected with the same ids receive the updates of a single request?
+How do you retrieve data for which you only have identifiers, no data? How do you coordinate a server's response to a specific client request? Does this degrade the elos models of agent communication, wherein all agents connected with the same ids receive the updates of a single request?
 
 Solution
 --------

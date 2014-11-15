@@ -1,7 +1,7 @@
-DEFINING THE GENESIS FOR DAWN
+DEFINING THE GENESIS FOR ELOS
 -----------------------------
 
-Roles of dawn:
+Roles:
   1. Record and aggregate real data about your life
     1. why: make evidence-based decisions (no more speculation)
   2. Enforce and understand your ethos
@@ -21,7 +21,7 @@ Roles of dawn:
   9. Manage memory queue
     1. why: fluid memory is limited, cache everything for later
 
-(o) Dawn is composed of several smaller parts
+- Dawn is composed of several smaller parts
   - keep your tools small and sharp
   - there should be composable pieces that together form a whole
 
@@ -29,12 +29,5 @@ So then, the problem:
 
 Knowing what to do, and for the most part how to do it.
 Not having the mental bandwidth to both manage doing and execute doing
-Dawn manages doing
-
-
-
-
-
-
-
+Elos manages doing
 

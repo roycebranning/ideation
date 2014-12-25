@@ -1,7 +1,7 @@
 DEFINING THE GENESIS FOR ELOS
 -----------------------------
 
-Roles:
+##### Roles:
   1. Record and aggregate real data about your life
     1. why: make evidence-based decisions (no more speculation)
   2. Enforce and understand your ethos
@@ -21,13 +21,12 @@ Roles:
   9. Manage memory queue
     1. why: fluid memory is limited, cache everything for later
 
-- Dawn is composed of several smaller parts
-  - keep your tools small and sharp
-  - there should be composable pieces that together form a whole
+Elos is composed of several smaller parts, each of its composite parts are small and sharp. These composable pieces together form a whole
 
-So then, the problem:
+##### So then, the problem:
 
-Knowing what to do, and for the most part how to do it.
-Not having the mental bandwidth to both manage doing and execute doing
-Elos manages doing
+You know what to do, and, mostly, how to do it.
+You do not have the mental bandwidth to manage and plan your course of action while you carry it out.
+
+Elos manages doing.
 

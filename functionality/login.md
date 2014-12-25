@@ -2,8 +2,8 @@ Login
 =====
 
 
-Criterion
----------
+Criteria
+--------
 1. Secure - in the sense that brute force is not a potential threat
 2. Involves a public unique generated identifier and private token
 

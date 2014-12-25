@@ -1,4 +1,4 @@
-DEFINING THE GENESIS FOR ELOS
+Defining the Genesis for Elos
 -----------------------------
 
 ##### Roles:

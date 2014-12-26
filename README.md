@@ -1,5 +1,5 @@
 Contents
-========
+--------
 
 * **[Fidem](https://github.com/elos/ideation/tree/master/fidem)**: Underlying beliefs and ideas
 * **[On](https://github.com/elos/ideation/tree/master/on)**: Expansions and applications of fidem

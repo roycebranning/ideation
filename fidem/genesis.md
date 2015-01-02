@@ -1,7 +1,7 @@
 Defining the Genesis for Elos
 -----------------------------
 
-##### Roles:
+##### Roles
   1. Record and aggregate real data about your life
     1. why: make evidence-based decisions (no more speculation)
   2. Enforce and understand your ethos
@@ -21,12 +21,12 @@ Defining the Genesis for Elos
   9. Manage memory queue
     1. why: fluid memory is limited, cache everything for later
 
-Elos is composed of several smaller parts, each of its composite parts are small and sharp. These composable pieces together form a whole
+Elos is composed of several composite parts, each of which is small and sharp and specific.
 
-##### So then, the problem:
+##### Crux
 
-You know what to do, and, mostly, how to do it.
-You do not have the mental bandwidth to manage and plan your course of action while you carry it out.
+We know what to do, and, mostly, how to do it.
 
-Elos manages doing.
+We do not have the mental bandwidth to manage and plan our course of action while we carry it out.
 
+Elos manages action.

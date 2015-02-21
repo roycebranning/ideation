@@ -1,4 +1,4 @@
-#### Change
+#### On Change
 
 ##### From the Elos Mission:
     "Progress, far from consisting in change, depends on retentiveness."

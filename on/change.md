@@ -1,10 +1,11 @@
 #### Change
 
-From the Elos Manifesto:
-    "To improve the human condition is to change it. The desire to maintain its core aspects should guide this change."
-
-From the Elos Mission:
+##### From the Elos Mission:
     "Progress, far from consisting in change, depends on retentiveness."
+
+##### From the Elos Manifesto:
+    "To improve the human condition is to change it. The desire to maintain its core aspects 
+    should guide this change."
 
 Examples of the need to change certain aspects of the human experience, which do not uniquely damage it:
 

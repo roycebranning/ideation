@@ -7,7 +7,7 @@ Defining the Genesis for Elos
   2. Enforce and understand your ethos
     1. why: make decisions on what is the most important thing to do right now
   3. Invest time aggresively (have perspective on long term goals)
-    1. build and overall better experience and progress on goals
+    1. why: better overall experience and progress on goals
   4. Understand the concept of time
     1. why: projects, goals and scheduling all happen in this dimension
   5. Manage knowledge and continued learning (esp. reading)

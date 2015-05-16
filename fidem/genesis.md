@@ -13,9 +13,9 @@ Defining the Genesis for Elos
   5. Manage knowledge and continued learning (esp. reading)
     1. why: learning is incredibly important
   6. Understand and react to the concept of free time (resistant to sub-optimal execution)
-    1. why: dawn will not manage everything, checking out for a weekend, or a night needs to be ok
+    1. why: elos will not manage everything, checking out for a weekend, or a night needs to be ok
   7. Succesfully deal with outside constants (work, for example, 9-5 block of time)
-    1. why: dawn cannot and should not expect to manage this time
+    1. why: elos cannot and should not expect to manage this time
   8. Manage memory learning (understand and apply memory algorithms, esp. quotations)
     1. why: memorization is the basis of all knowledge
   9. Manage memory queue

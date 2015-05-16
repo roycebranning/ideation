@@ -2,7 +2,7 @@ On Data
 -------
 
 ##### Prelude:
-The popularization of the term "big data" has lead to a decadence of its meaning. The plain conception of big data is ill-conceived and often misdirected. It reminds me of how we had time-sharing decades ago, but now refer to a remote virtual host as "the cloud."
+The popularization of the term "big data" has led to a decadence of its meaning. The plain conception of big data is ill-conceived and often misdirected. It reminds me of how we had time-sharing decades ago, but now refer to a remote virtual host as "the cloud."
 
 ##### Thesis:
 There are three realizations which form the basis of elos' policy on data.

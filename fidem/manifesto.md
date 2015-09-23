@@ -17,7 +17,9 @@ Some of us are living.
 
 Elos will not be a platform that decides how you live your life. It is a tool that hopefully helps you understand who you are and why you are. Elos fights the "signal in the noise battles" that most of our brains don't have the capacity to fight. A tool is as contructive or destructive as the worker makes it. 
 
-A tool : Let's think about a hammer. Why do I use a hammer? Because it is a way to concentrate and thereby amplify the force that I'm able to generate in order to solve the objective of driving a nail into something. In this sense a hammer is great. I don't glorify the amazing hammer for driving the nail into the wood, but I appreciate a good hammer for helping me do the job to the best of my ability.  
+A tool : Let's think about a hammer. Why do I use a hammer? Because it is a way to concentrate and thereby amplify the force that I'm able to generate in order to solve the objective of driving a nail into something. In this sense a hammer is great. I don't glorify the amazing hammer for driving the nail into the wood, but I appreciate a good hammer for helping me do the job to the best of my ability. 
+
+// 
 
 
 
